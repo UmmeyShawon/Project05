@@ -1,0 +1,100 @@
+/*----header started---*/
+header{
+    /*border: 1px solid red;*/
+    padding: 10px 0px;
+}
+.container { 
+ width: 90%;
+ /*border: 1px solid;*/
+ margin: 0 auto;
+ overflow: hidden;
+	
+}
+.logo{
+width: 10%;
+float: left;
+/*border: 1px solid;*/
+}
+.logo a{
+
+}
+.logo a img{
+ width: 100%;
+}
+.menu{
+    width: 40%;
+    float: right;
+    /*border: 1px solid;*/
+    
+}
+.menu ul{
+ float: right;
+}
+.menu ul li{
+    list-style: none;
+    float: left;
+   
+}
+
+
+.menu ul li a{
+    text-decoration: none;
+    margin: 0px 15px;
+    display: inline-block;
+    font-size: 18px;
+    color: #0F2656;
+    text-transform: capitalize;
+    
+}
+
+.menu ul li:last-child a{
+    margin-right: 0;
+}
+.menu ul li:first-child a{
+    color: brown;
+    }
+    
+.menu ul li:first-child a:hover{
+color: brown;
+}
+
+.menu ul li a:hover{
+    color: #0D62F8;
+    background-color: #e1ecff;
+    box-shadow: rgb(162, 241, 241);
+    box-sizing: border-box;
+    border: solid ;
+}
+
+/*----header ended---*/
+
+.section2{
+    margin: 33.33;
+}
+.section2  p{
+    font-size: 50px;
+    text-align: center;
+    font:bolder;
+    color:#0F2656 ;
+}
+.section2 p span{
+    color: #0D62F8;
+
+
+}
+.paragraph p{
+    text-align: center;
+    font-size: 18px;
+}
+
+/*--2nd section ended--*/
+
+/*---3rd picture section started---*/
+.picture img{
+    
+    position: absolute;
+}
+/*---3rd picture section started---*/
+
+
+
